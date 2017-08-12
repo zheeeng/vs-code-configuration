@@ -1,0 +1,36 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "400",
+    "editor.dragAndDrop": false,
+    "editor.fontFamily": "Source Code Pro",
+    "editor.wordWrap": "on",
+    "editor.wordSeparators": "_`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "workbench.colorTheme": "Predawn",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[css]": {
+        "editor.tabSize": 2
+    },
+    "window.title": "${activeEditorMedium}${separator}${dirty}",
+    "explorer.openEditors.visible": 0
+}
