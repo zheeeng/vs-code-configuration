@@ -49,6 +49,21 @@
             "text": "REVIEW:",
             "color": "white",
             "backgroundColor": "green"
+        },
+        {
+            "text": "NOTE:",
+            "color": "white",
+            "backgroundColor": "lightseagreen"
+        },
+        {
+            "text": "TEST:",
+            "color": "white",
+            "backgroundColor": "salmon"
+        },
+        {
+            "text": "ISSUE:",
+            "color": "grey",
+            "backgroundColor": "white"
         }
     ]
 }
