@@ -6,7 +6,7 @@
     "editor.fontFamily": "Source Code Pro",
     "editor.wordWrap": "on",
     "editor.wordSeparators": "_`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
-
+    "editor.renderLineHighlight": "all",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
@@ -22,6 +22,10 @@
     "workbench.sideBar.location": "left",
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#424759",
+        "editor.selectionBackground": "#55969D"
+    },
     "[javascript]": {
         "editor.tabSize": 2
     },
