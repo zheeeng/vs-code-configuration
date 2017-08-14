@@ -39,7 +39,6 @@
     "window.title": "${activeEditorMedium}${separator}${dirty}",
     "explorer.openEditors.visible": 0,
     "todohighlight.isEnable": true,
-    "todohighlight.isCaseSensitive": false,
     "todohighlight.keywords": [
         {
             "text": "DEBUG:",
