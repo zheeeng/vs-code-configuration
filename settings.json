@@ -17,16 +17,11 @@
     },
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
-    "workbench.colorTheme": "Predawn",
+    "workbench.colorTheme": "Eva Light",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.sideBar.location": "left",
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
-    "workbench.colorCustomizations": {
-        "sideBar.background": "#303335",
-        "editor.lineHighlightBackground": "#424759",
-        "editor.selectionBackground": "#55969D"
-    },
     "[javascript]": {
         "editor.tabSize": 2
     },
@@ -68,5 +63,21 @@
             "color": "grey",
             "backgroundColor": "white"
         }
-    ]
+    ],
+    "cSpell.userWords": [
+        "antd"
+    ],
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "sync.gist": "3dbb0ba9ad74b21dfbd277b0fa3bae4b",
+    "sync.lastUpload": "2017-08-20T13:05:44.793Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false
 }
